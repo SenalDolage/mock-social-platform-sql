@@ -4,7 +4,7 @@ This project is a personal initiative where I recreated a small-scale social med
 
 It gave me the opportunity to revise concepts like filtering, aggregation, window functions, CTEs, and conditional logic.. I plan to extend this to test more advanced topics like performance tuning and integrate with data visualization tools in the future.
 
-## Dimensional Model
+## Data Model
 
 [![datamodel-drawio.png](https://i.postimg.cc/nLBV5PB3/datamodel-drawio.png)](https://postimg.cc/bGYjSL6n)
 
